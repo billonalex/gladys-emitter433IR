@@ -1,4 +1,4 @@
-# Gladys radioemitter
+# Gladys Emitter 433 IR
 
 Emitter 433 IR is used to control radio plugs and IR materials.
 
