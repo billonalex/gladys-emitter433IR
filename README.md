@@ -6,7 +6,7 @@ Emitter 433 IR is used to control radio plugs and IR materials.
 
 - First, install the [Serial](https://developer.gladysproject.com/en/modules/serial) module in Gladys
 - Then, install this module in Gladys
-- Push the [arduino code](https://github.com/GladysProject/gladys-emitter433IR/billona/master/arduino-code.ino) to your arduino with the [Arduino IDE](https://www.arduino.cc/en/main/software). You need to have `ArduinoJson` and `RCSwitch` libraries installed. To install the libraries, in the arduino IDE (version > 1.6) go to "Sketch" => "Include Library" => "Manage Libraries". Then search "ArduinoJson" and click on "install". Same for "RCSwitch".
+- Push the [arduino code](https://github.com/billonalex/gladys-emitter433IR/blob/master/arduino-code/arduino-code.ino) to your arduino with the [Arduino IDE](https://www.arduino.cc/en/main/software). You need to have `ArduinoJson` and `RCSwitch` libraries installed. To install the libraries, in the arduino IDE (version > 1.6) go to "Sketch" => "Include Library" => "Manage Libraries". Then search "ArduinoJson" and click on "install". Same for "RCSwitch".
 - Reboot Gladys
 - Connect your arduino in USB to your Raspberry Pi
 - Click on the "config" button of the "Serial" module in the "Modules" view. 
